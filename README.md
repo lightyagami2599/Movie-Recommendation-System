@@ -48,4 +48,4 @@ If you want to play around with the code yourself:
     ```
 
 ---
-*Developed with ❤️ by [Anupam Mittal](https://github.com/AnupamMittal-21)*
+*Developed with ❤️ by [Vibhu Vishwakarma](https://github.com/AnupamMittal-21)*
