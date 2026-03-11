@@ -24,11 +24,7 @@ Welcome to my Movie Recommender System! I built this project to help movie lover
 ![Movie Recommender System 2](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/ff4fd4bd-1cf3-4580-9614-67e8698b45e5)
 
 ## 📺 Live Demo
-
-See the app in action here:
-[![Watch the Demo](https://img.youtube.com/vi/0BJgu4qZqOM/0.jpg)](https://youtu.be/0BJgu4qZqOM)
-
-Check out the deployed app: [**Streamlit App Link**](https://movie-recommender-syst.streamlit.app/)
+Check out the deployed app: [**Streamlit App Link**]()
 
 ## ⚙️ Running it Locally
 
