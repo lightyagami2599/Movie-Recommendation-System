@@ -6,3 +6,4 @@ requests
 beautifulsoup4
 nltk
 streamlit-option-menu
+streamlit-extras
