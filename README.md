@@ -18,11 +18,6 @@ Welcome to my Movie Recommender System! I built this project to help movie lover
 *   **NLTK**: For text preprocessing and stemming to ensure the engine understands movie themes correctly.
 *   **TMDB API**: To fetch high-quality posters and up-to-date actor information.
 
-## 📸 Screenshots
-
-![Movie Recommender System 1](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/cce0c494-4dde-4872-868b-2f6f23b24a68)
-![Movie Recommender System 2](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/ff4fd4bd-1cf3-4580-9614-67e8698b45e5)
-
 ## 📺 Live Demo
 Check out the deployed app: [**Streamlit App Link**](https://movie-recommendation-system-ek42mzvwcnd4uimekasuzd.streamlit.app/)
 
