@@ -32,7 +32,7 @@ If you want to play around with the code yourself:
 
 1.  **Clone the repo**:
     ```bash
-    git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
+    git clone https://(https://github.com/lightyagami2599/Movie-Recommendation-System)
     ```
 2.  **Install the requirements**:
     ```bash
