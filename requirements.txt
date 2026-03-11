@@ -1,8 +1,7 @@
-streamlit==1.27.2
+streamlit
 pandas
 numpy
 scikit-learn
-matplotlib
 requests
 beautifulsoup4
 nltk
